@@ -1,0 +1,16 @@
+C:\Users\dustin.radford\source\repos\SmartsheetTest2\SmartsheetTest2\bin\Debug\SmartsheetTest2.exe.config
+C:\Users\dustin.radford\source\repos\SmartsheetTest2\SmartsheetTest2\bin\Debug\SmartsheetTest2.exe
+C:\Users\dustin.radford\source\repos\SmartsheetTest2\SmartsheetTest2\bin\Debug\SmartsheetTest2.pdb
+C:\Users\dustin.radford\source\repos\SmartsheetTest2\SmartsheetTest2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dustin.radford\source\repos\SmartsheetTest2\SmartsheetTest2\bin\Debug\NLog.dll
+C:\Users\dustin.radford\source\repos\SmartsheetTest2\SmartsheetTest2\bin\Debug\RestSharp.dll
+C:\Users\dustin.radford\source\repos\SmartsheetTest2\SmartsheetTest2\bin\Debug\smartsheet-csharp-sdk.dll
+C:\Users\dustin.radford\source\repos\SmartsheetTest2\SmartsheetTest2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\dustin.radford\source\repos\SmartsheetTest2\SmartsheetTest2\bin\Debug\NLog.xml
+C:\Users\dustin.radford\source\repos\SmartsheetTest2\SmartsheetTest2\bin\Debug\RestSharp.xml
+C:\Users\dustin.radford\source\repos\SmartsheetTest2\SmartsheetTest2\bin\Debug\smartsheet-csharp-sdk.xml
+C:\Users\dustin.radford\source\repos\SmartsheetTest2\SmartsheetTest2\obj\Debug\SmartsheetTest2.csprojAssemblyReference.cache
+C:\Users\dustin.radford\source\repos\SmartsheetTest2\SmartsheetTest2\obj\Debug\SmartsheetTest2.csproj.CoreCompileInputs.cache
+C:\Users\dustin.radford\source\repos\SmartsheetTest2\SmartsheetTest2\obj\Debug\SmartsheetTest2.csproj.CopyComplete
+C:\Users\dustin.radford\source\repos\SmartsheetTest2\SmartsheetTest2\obj\Debug\SmartsheetTest2.exe
+C:\Users\dustin.radford\source\repos\SmartsheetTest2\SmartsheetTest2\obj\Debug\SmartsheetTest2.pdb
